@@ -1,3 +1,20 @@
+               ,
+              / \,,_  .'|
+           ,{{| /}}}}/_.'            ___________________________________________
+          }}}}` '{{'  '.            /  "In this life, no effort in learning is ever in vain,  \
+        {{{{{    _   ;, \          /    and no path we take is without purpose."          \
+     ,}}}}}}    /o`\  ` ;)        <______________________________________________/
+    {{{{{{   /           (
+    }}}}}}   |            \            _
+   {{{{{{{{   \            \          //
+   }}}}}}}}}   '.__      _  |        //        
+   {{{{{{{{       /`._  (_\ /       //         
+    }}}}}}}      |    //___/     //
+                |     '--'     /        
+                \             /
+                 '.         (
+                   '-._.--._.-'
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndtdoanh&layout=compact)
 ### Languages and Tools:
 
