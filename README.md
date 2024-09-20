@@ -1,4 +1,3 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&langs_count=6&theme=dark)
 
 
 <!--
