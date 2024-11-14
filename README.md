@@ -4,7 +4,8 @@ I am a passionate self-taught programmer from Vietnam. My passion for software l
 
 **- 🧑‍🎓 I’m currently studying at** [FPT University](https://fpt.edu.vn/)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=ndtdoanh&color=ffffff)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=your-ndtdoanh.your-repo)
+
 
 
 
