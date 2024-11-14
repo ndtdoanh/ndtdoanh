@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I am a passionate self-taught programmer from Vietnam. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. I want to return the favor by contributing back to the community.
+I'm a self-taught programmer from Vietnam with a passion for turning ideas into reality through thoughtfully designed software. I care deeply about the user experience, architecture, and the quality of every line of code.
+
+Beyond my own projects, I'm an open-source enthusiast and contributor. The open-source community has taught me a lot, and I’m grateful for the collaborative, knowledge-sharing spirit that defines it. Now, I'm excited to give back and contribute to projects that make a difference.
 
 ## **🧑‍🎓 I’m currently studying at** [FPT University](https://fpt.edu.vn/)
 
