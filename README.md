@@ -4,9 +4,10 @@ I am a passionate self-taught programmer from Vietnam. My passion for software l
 
 **- 🧑‍🎓 I’m currently studying at** [FPT University](https://fpt.edu.vn/)
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=your-ndtdoanh.your-repo)
-
-
+ Visitors
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ndtdoanh/count.svg" alt="Visitor Count" />
+</div></br
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndtdoanh&layout=compact)
