@@ -16,6 +16,8 @@
                    '-._.--._.-'
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndtdoanh&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndtdoanh&show_icons=true&theme=radical)
+
 ### Languages and Tools:
 
 <p align="left"> 
