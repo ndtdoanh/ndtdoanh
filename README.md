@@ -10,8 +10,10 @@ I am a passionate self-taught programmer from Vietnam. My passion for software l
 </div></br
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndtdoanh&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndtdoanh&show_icons=true&theme=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ndtdoanh&show_icons=true&theme=radical&count_private=true" alt="mntuas's GitHub Stats" style="max-width: 50%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndtdoanh&layout=compact&theme=radical" alt="Most Used Languages" style="max-width: 70%; height: 195px" />
+</div>
 
 
 
