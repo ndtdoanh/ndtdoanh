@@ -5,8 +5,8 @@ I am a passionate self-taught programmer from Vietnam. My passion for software l
 **- 🧑‍🎓 I’m currently studying at** [FPT University](https://fpt.edu.vn/)
 
  
-## Visitors
-<div align="center">
+** Visitors**
+<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
   <img src="https://profile-counter.glitch.me/ndtdoanh/count.svg" alt="Visitor Count" style="display: inline-block; background-color: white; padding: 5px;" />
 </div>
 
