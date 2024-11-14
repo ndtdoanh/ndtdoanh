@@ -6,8 +6,6 @@ I am a passionate self-taught programmer from Vietnam. My passion for software l
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ndtdoanh&color=blue)
 
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndtdoanh&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndtdoanh&show_icons=true&theme=compact)
 
