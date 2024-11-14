@@ -9,7 +9,7 @@ I am a passionate self-taught programmer from Vietnam. My passion for software l
 <div align="center"style="margin-bottom: 50px;">
   <img src="https://profile-counter.glitch.me/ndtdoanh/count.svg" alt="Visitor Count" style="display: inline-block; background-color: white; padding: 5px;" />
 </div>
-##
+                                                                                                          
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 30px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndtdoanh&layout=compact&bg_color=FFFFFF" alt="Most Used Languages" style="max-width: 45%; height: 195px;" />
