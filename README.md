@@ -12,8 +12,8 @@ Visitors
 
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ndtdoanh&show_icons=true&count_private=true&bg_color=FFFFFF&title_color=000000&text_color=000000&icon_color=000000" alt="ndtdoanh's GitHub Stats" style="max-width: 45%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndtdoanh&layout=compact&bg_color=FFFFFF&title_color=000000&text_color=000000" alt="Most Used Languages" style="max-width: 45%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ndtdoanh&show_icons=true&count_private=true&bg_color=FFFFFF&title_color=000000&text_color=000000&icon_color=000000" alt="ndtdoanh's GitHub Stats" style="max-width: 45%; height: 195px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndtdoanh&layout=compact&bg_color=FFFFFF&title_color=000000&text_color=000000" alt="Most Used Languages" style="max-width: 45%; height: 195px;" />
 </div>
 
 
