@@ -4,7 +4,8 @@ I am a passionate self-taught programmer from Vietnam. My passion for software l
 
 - 🧑‍🎓 I’m currently studying at [FPT University](https://fpt.edu.vn/)
 
-![Profile Views](https://shields.io/badge/Profile%20Views-1234-brightgreen?style=for-the-badge&logo=eye&logoColor=white&labelColor=purple)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fndtdoanh&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=false)
+
 
 
 
