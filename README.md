@@ -10,6 +10,10 @@ Visitors
   <img src="https://profile-counter.glitch.me/ndtdoanh/count.svg" alt="Visitor Count" style="display: inline-block; background-color: white; padding: 5px;" />
 </div>
 
+<div align="center">
+  <img src="https://hitcounterjs.com/count/ndtdoanh/0/0/ffffff/000000/1" alt="Visitor Count" style="display: inline-block; background-color: white; padding: 5px;" />
+</div>
+
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndtdoanh&layout=compact&bg_color=FFFFFF" alt="Most Used Languages" style="max-width: 45%; height: 195px;" />
