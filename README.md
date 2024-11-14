@@ -4,15 +4,16 @@ I am a passionate self-taught programmer from Vietnam. My passion for software l
 
 **- 🧑‍🎓 I’m currently studying at** [FPT University](https://fpt.edu.vn/)
 
- Visitors
+ 
+Visitors
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ndtdoanh/count.svg" alt="Visitor Count" />
-</div></br
+  <img src="https://profile-counter.glitch.me/ndtdoanh/count.svg" alt="Visitor Count" style="display: inline-block; background-color: white; padding: 5px;" />
+</div>
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ndtdoanh&show_icons=true&theme=radical&count_private=true" alt="mntuas's GitHub Stats" style="max-width: 50%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndtdoanh&layout=compact&theme=radical" alt="Most Used Languages" style="max-width: 70%; height: 195px" />
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ndtdoanh&show_icons=true&count_private=true&bg_color=FFFFFF&title_color=000000&text_color=000000&icon_color=000000" alt="ndtdoanh's GitHub Stats" style="max-width: 45%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndtdoanh&layout=compact&bg_color=FFFFFF&title_color=000000&text_color=000000" alt="Most Used Languages" style="max-width: 45%;" />
 </div>
 
 
