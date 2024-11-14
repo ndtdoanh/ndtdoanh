@@ -6,10 +6,9 @@ I am a passionate self-taught programmer from Vietnam. My passion for software l
 
  
 **Visitors**
-<div align="center">
+<div align="center"style="margin-bottom: 20px;">
   <img src="https://profile-counter.glitch.me/ndtdoanh/count.svg" alt="Visitor Count" style="display: inline-block; background-color: white; padding: 5px;" />
 </div>
-
 
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
