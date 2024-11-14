@@ -3,6 +3,8 @@
 I am a passionate self-taught programmer from Vietnam. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. I want to return the favor by contributing back to the community.
 
 - 🧑‍🎓 I’m currently studying at [FPT University](https://fpt.edu.vn/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/ndtdoanh/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nguyentrongdoanh202@gmail.com)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndtdoanh&layout=compact)
