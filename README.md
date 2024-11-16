@@ -22,7 +22,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ndtdoanh&show_icons=true&count_private=true&bg_color=FFFFFF" alt="ndtdoanh's GitHub Stats" style="max-width: 45%; height: 195px;" />
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lqhuy28&" alt="ndtdoanh" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lqhuy28&" alt="ndtdoanh" /></p>
 
 
 
