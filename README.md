@@ -9,11 +9,11 @@
 </div></br>
 
 👨‍💻 Aspiring Fullstack Developer 🚀 
-- 💻 Familiar with designing RESTful APIs.
-- 🔧 Skilled in Java Spring, MySQL, and basic cloud technologies.
-- 🛠️ Passionate about building clean, efficient backend systems.
-- 🌱 Currently learning CI/CD and containerization with Docker.
-- 💡 Always eager to learn, grow, and collaborate in a team environment.
+- 💻 Skilled in RESTful APIs and responsive front-end design.
+- 🔧 Proficient in Java Spring, JavaScript, and React.
+- 🛠️ Focused on clean code and system optimization.
+- 🌱 Learning Docker, Kubernetes, and cloud technologies.
+- 💡 Passionate about solving problems and team collaboration.
 - 📫 How to reach me **nguyentrongdoanh202@gmail.com**
                                                                                                           
 
