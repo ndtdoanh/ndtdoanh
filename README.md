@@ -17,7 +17,6 @@
 - 💡 Passionate about solving problems and team collaboration.
 - 📫 How to reach me **nguyentrongdoanh202@gmail.com**
                                                                                                           
-
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndtdoanh&layout=compact&bg_color=FFFFFF" alt="Most Used Languages" style="max-width: 45%; height: 195px;" />
   <img src="https://github-readme-stats.vercel.app/api?username=ndtdoanh&show_icons=true&count_private=true&bg_color=FFFFFF" alt="ndtdoanh's GitHub Stats" style="max-width: 45%; height: 195px;" />
