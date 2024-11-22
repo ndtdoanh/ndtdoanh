@@ -8,7 +8,6 @@
   <img src="https://profile-counter.glitch.me/ndtdoanh/count.svg" alt="Visitor Count" />
 </div></br>
 
-
 👨‍💻 Aspiring Fullstack Developer 🚀 
 - 💻 Skilled in RESTful APIs and responsive front-end design.
 - 🔧 Proficient in Java Spring Boot, JavaScript, and React/NextJS.
@@ -25,7 +24,9 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ndtdoanh&%22%20alt=%22ndtdoanh" /></p>
 
+
 ### Languages and Tools:
+
 
 <p align="left"> 
   <!-- C -->
