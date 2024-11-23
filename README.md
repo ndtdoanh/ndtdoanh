@@ -10,7 +10,7 @@
 
 👨‍💻 Aspiring Fullstack Developer 🚀 
 - 💻 Skilled in RESTful APIs and responsive front-end design.
-- 🔧 Proficient in Java Spring Boot, JavaScript, and React/NextJS.
+- 🔧 Proficient in Java Spring, JavaScript, and React/NextJS.
 - 🛠️ Focused on clean code and system optimization.
 - 🌱 Learning Docker, Kubernetes, and cloud technologies.
 - 💡 Passionate about solving problems and team collaboration.
