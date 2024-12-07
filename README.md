@@ -27,7 +27,6 @@
 
 ### Languages and Tools:
 
-
 <p align="left"> 
   <!-- C -->
   <a href="https://www.learn-c.org/" target="_blank" rel="noreferrer">
