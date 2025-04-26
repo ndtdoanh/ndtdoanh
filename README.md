@@ -8,13 +8,13 @@
   <img src="https://profile-counter.glitch.me/ndtdoanh/count.svg" alt="Visitor Count" />
 </div></br>
 
-👨‍💻 Aspiring Fullstack Developer 🚀 
-- 💻 Skilled in RESTful APIs and responsive front-end design.
-- 🔧 Proficient in Java Spring, JavaScript, and React/NextJS.
-- 🛠️ Focused on clean code and system optimization.
-- 🌱 Learning Docker, Kubernetes, and cloud technologies.
-- 💡 Passionate about solving problems and team collaboration.
-- 📫 How to reach me **nguyentrongdoanh202@gmail.com**
+👋 Hi, I'm Nguyen Doan Trong Doanh. 
+- 👨‍💻 Java Backend Developer | Aspiring Fullstack Developer.
+- 🔹 Skilled in Spring Boot, Microservices, REST APIs, React/Next.js.
+- 🔹 Familiar with Docker, AWS (EC2, RDS, S3), Redis, Kafka.
+- 🔹 Strong in OOP, SQL, and clean code principles.
+- 🌱 Currently learning Kubernetes and advanced cloud technologies.
+- 📫 Contact: **nguyentrongdoanh202@gmail.com**
                                                                                                           
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndtdoanh&layout=compact&bg_color=FFFFFF" alt="Most Used Languages" style="max-width: 45%; height: 195px;" />
