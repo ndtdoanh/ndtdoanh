@@ -10,7 +10,7 @@
 
 👋 Hi, I'm Nguyen Doan Trong Doanh. 
 - Java Backend Developer | Aspiring Fullstack Developer.
-- Skilled in Spring Boot, Microservices, REST APIs, React/Next.js.
+- Skilled in Spring Boot, Microservices, REST APIs, React/NextJS.
 - Familiar with Docker, AWS (EC2, RDS, S3), Redis, Kafka.
 - Strong in OOP, SQL, and clean code principles.
 - Currently learning Kubernetes and advanced cloud technologies.
