@@ -4,8 +4,10 @@
 
 **Visitors**
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ndtdoanh/count.svg" alt="Visitor Count" />
-</div></br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ndtdoanh" alt="Visitor Count" />
+</div>
+</br>
+
 
 👋 Hi, I'm Nguyen Doan Trong Doanh. 
 - Java Backend Developer | Aspiring Fullstack Developer.
