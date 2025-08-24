@@ -5,9 +5,10 @@
 **About**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Visitors&query=value&url=https://api.countapi.xyz/hit/ndtdoanh/profile" alt="Visitor Count" />
+  <img src="https://img.shields.io/badge/dynamic/json?logo=github&color=blue&label=👀%20Views&query=value&url=https://api.countapi.xyz/hit/ndtdoanh/profile" alt="Visitor Count" />
 </div>
 </br>
+
 
 
 👋 Hi, I'm Nguyen Doan Trong Doanh. 
