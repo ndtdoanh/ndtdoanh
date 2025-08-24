@@ -4,7 +4,7 @@
 
 **About**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ndtdoanh&label=Profile%20views&color=0e75b6&style=flat" alt="ndtdoanh" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ndtdoanh&label=Profile%20views&color=0e75b6&style=flat" alt="ndtdoanh" /> </p>
 <br />
 
 
