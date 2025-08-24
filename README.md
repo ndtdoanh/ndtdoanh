@@ -4,11 +4,8 @@
 
 **About**
 
-<div align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?logo=github&color=blue&label=👀%20Views&query=value&url=https://api.countapi.xyz/hit/ndtdoanh/profile" alt="Visitor Count" />
-</div>
-</br>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ndtdoanh&label=Profile%20views&color=0e75b6&style=flat" alt="ndtdoanh" /> </p>
+<br />
 
 
 👋 Hi, I'm Nguyen Doan Trong Doanh. 
